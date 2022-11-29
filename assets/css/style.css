@@ -56,3 +56,15 @@ table p {
     text-align: center;
     font-weight: 900;
 }
+
+.precio-normal{
+    text-decoration: line-through;
+    color: gray;
+    font-size: medium;
+}
+
+span{
+    color:red;
+    font-weight: bold;
+    font-size: larger;
+}
